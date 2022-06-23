@@ -36,5 +36,6 @@ bool:
 
 string:
 1. Data type which is used for variables that will store a series of characters, which programmers typically call a string.
-2. Including things such as words, sentences, paragraphs, and the like.\
-[這是一個行內樣式的連結](https://www.google.com)
+2. Including things such as words, sentences, paragraphs, and the like.
+
+[Data Types and Variable]([https://www.google.com](https://github.com/Allen-CGL/C-notes/blob/88fff88d762b0cf21fd88e2c2d7db208da5b6aff/Basics%20of%20C/Data%20Types%20and%20Variables.c))
