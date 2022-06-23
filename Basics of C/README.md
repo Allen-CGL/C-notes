@@ -1,4 +1,4 @@
-#Basics of C 
+# Basics of C 
  Introduction about C
 # int
   (1) Used for variables that will store intergers.
