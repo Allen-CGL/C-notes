@@ -1,2 +1,2 @@
 # C-notes
-note about C
+notes about C
