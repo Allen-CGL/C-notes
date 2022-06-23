@@ -1,2 +1,2 @@
 # C-notes
-notes about C haha
+notes about C
