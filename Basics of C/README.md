@@ -22,4 +22,18 @@ float:
 
 double:
 1. Used for variables that will store floating-point values, also known as real numbers.
-2. They are double precision, meaning always 
+2. They are double precision, meaning always take up 8 bytes of memory (64 bits).
+3. Comparing to float, double allows us to be specify much more precise real numbers.
+
+void:
+1. It's a type, but not a data type.
+2. Function can have void return type, which just menas they don't return a value.
+3. The parameter list of a function can also be void. It simply means that the function takes no parameters.
+4. Placeholder for "nothing".
+
+bool:
+1. Data type which is used for variables that will store either true or false.
+
+string:
+1. Data type which is used for variables that will store a series of characters, which programmers typically call a string.
+2. Including things such as words, sentences, paragraphs, and the like.
