@@ -1,7 +1,7 @@
 # Basics of C 
  Introduction about C
  
-# Data Types and Variables
+## Data Types and Variables
 int:
 1. Used for variables that will store intergers.
 2. Always take up 4 bytes (32 bits) of memory. Meaning the range of values they can store is necessarily limited to 32 bits worth of information.
@@ -37,4 +37,3 @@ bool:
 string:
 1. Data type which is used for variables that will store a series of characters, which programmers typically call a string.
 2. Including things such as words, sentences, paragraphs, and the like.\
-Basics of C/Data Types and Variables.c
