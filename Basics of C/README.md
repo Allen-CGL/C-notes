@@ -53,4 +53,13 @@ Boolean Expressions:
 [Conditional Statements.c](https://github.com/Allen-CGL/C-notes/blob/20ce608ec4ec6c3af320acd3dfeecdd41075e267/Basics%20of%20C/Conditional%20Statements.c)
 
 ## Loops:
+while:
+1. Use when you want a loop to repeat an unknown number of times, and possibly not at all.
 
+do-while:
+1. Use when you want a loop to repeat an unknown number of times, but at least once. (e.g. prompting the user for input.) 
+
+for:
+1. Use when you want a loop to repeat a discrete number of times, though you may not know the number at the moment the program is compiled.
+
+[Loops.c](https://github.com/Allen-CGL/C-notes/blob/20ce608ec4ec6c3af320acd3dfeecdd41075e267/Basics%20of%20C/Conditional%20Statements.c)
