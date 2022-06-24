@@ -39,3 +39,13 @@ string:
 2. Including things such as words, sentences, paragraphs, and the like.
 
 [Data Types and Variables.c](https://github.com/Allen-CGL/C-notes/blob/88fff88d762b0cf21fd88e2c2d7db208da5b6aff/Basics%20of%20C/Data%20Types%20and%20Variables.c)
+
+##Operators
+Arithmetic Operators: 
+1. x += 1/ x ++/ x = x+1 are the same
+
+Boolean Expressions:
+1. Every non-zero values are true, zero is false.
+2. Logical operators like && (and), || (or), ! (not).
+3. Relative operators like <, >, <=, >=, ==, !=.
+
