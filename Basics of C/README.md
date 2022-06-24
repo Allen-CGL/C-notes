@@ -40,7 +40,7 @@ string:
 
 [Data Types and Variables.c](https://github.com/Allen-CGL/C-notes/blob/88fff88d762b0cf21fd88e2c2d7db208da5b6aff/Basics%20of%20C/Data%20Types%20and%20Variables.c)
 
-##Operators
+## Operators
 Arithmetic Operators: 
 1. x += 1/ x ++/ x = x+1 are the same
 
