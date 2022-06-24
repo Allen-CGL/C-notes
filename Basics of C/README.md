@@ -51,3 +51,6 @@ Boolean Expressions:
 
 ## Conditional Statements:
 [Conditional Statements.c](https://github.com/Allen-CGL/C-notes/blob/20ce608ec4ec6c3af320acd3dfeecdd41075e267/Basics%20of%20C/Conditional%20Statements.c)
+
+## Loops:
+
