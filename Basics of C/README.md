@@ -63,3 +63,6 @@ for:
 1. Use when you want a loop to repeat a discrete number of times, though you may not know the number at the moment the program is compiled.
 
 [Loops.c](https://github.com/Allen-CGL/C-notes/blob/d3b1818a51016865bd0314723546055c8b4ae6fd/Basics%20of%20C/Loops.c)
+
+##Comparing Two Strings:
+
