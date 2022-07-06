@@ -65,4 +65,4 @@ for:
 [Loops.c](https://github.com/Allen-CGL/C-notes/blob/d3b1818a51016865bd0314723546055c8b4ae6fd/Basics%20of%20C/Loops.c)
 
 ## Comparing Two Strings:
-
+[Comparing Two Strings.c](https://github.com/Allen-CGL/C-notes/blob/1f20b492b3ec6e988fa52f29356979f715d73630/Basics%20of%20C/Comparing%20Two%20Strings.c)
